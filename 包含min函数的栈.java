@@ -4,7 +4,7 @@ import java.util.Stack;
 
 import org.junit.Test;
 
-public class 包含min函数的栈 {
+class 包含min函数的栈 {
 	Stack<Integer> dataStack = new Stack<>();
 	Stack<Integer> minStack = new Stack<>();
 

@@ -1,6 +1,6 @@
 package com.ze.offer;
 
-public class 打印1到最大的n位数{
+class 打印1到最大的n位数{
 	public static void main(String[] args) {
 		Print1ToMaxOfNDigits(3);
 	}

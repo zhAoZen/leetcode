@@ -4,7 +4,7 @@ import java.util.Stack;
 
 import org.junit.Test;
 
-public class 栈的压入压出序列 {
+class 栈的压入压出序列 {
 	Stack<Integer> assistStack = new Stack<>();
 
 	public boolean isSeq(int[] pPush, int[] pPop, int length) {
