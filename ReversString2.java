@@ -25,4 +25,4 @@ public class ReversString2 {
 			arr[r--] = temp;
 		}
 	}
-}
+}		
